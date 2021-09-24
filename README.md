@@ -1,6 +1,6 @@
 ### List of common HTTP Methods
 
-List of common HTTP Methods for API endpoint enumeration
+List of common HTTP Methods for web app and API endpoint enumeration
 
 * GET
 * POST
